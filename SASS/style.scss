@@ -1,0 +1,11 @@
+@use "./color" as *;
+@use "./fonts" as *;
+@use "./btn" as *;
+@use "./navbar" as*;
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}

@@ -1,0 +1,8 @@
+@use "color";
+
+.navbar{
+    background: $background;
+}
+@mixin navbar {
+    background: $background;
+}

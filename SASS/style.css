@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+/*# sourceMappingURL=style.css.map */
+
+.navbar, .footer, .btn {
+  background-color: #30576C;
+}
+:hover.btn{
+  background: #30576C;
+}
+.firstbtn {
+  background: #198754;
+  border: none;
+}
+.secondbtn {
+  background: #30576C;
+  border: 1px solid white;
+}
+.firstSection {
+  background: #30576C;
+}
